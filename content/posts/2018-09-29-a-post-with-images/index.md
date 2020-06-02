@@ -22,3 +22,5 @@ If you'll be including images directly into your source repository like this, yo
 
 ![a funny gif](./cover.jpg "gatsby-config.js is set to only display a caption if a title is explicitly provided, rather than default to the alt-text. But if a title is provided, it will be centered under the image.")
 
+![a funny gif](./cover.jpg "gatsby-config.js is set to only display a caption if a title is explicitly provided, rather than default to the alt-text. But if a title is provided, it will be centered under the image.")
+
